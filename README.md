@@ -1,9 +1,10 @@
 # Note
 
 This is a snapshot of https://github.com/NVlabs/cub with branch 1.7.0. We squashed all commits to
-avoid the huge `.git` folder. Please don't submit codes changes to the original
+avoid the huge `.git` folder. Please submit codes changes to the original
 repo, not this one.
 
+We will keep this repo update to date before `NVlabs/cub` shrinked its cache size. But this repo may be deleted at any time. 
 
 <hr>
 <h3>About CUB</h3>
